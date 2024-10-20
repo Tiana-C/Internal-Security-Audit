@@ -1,0 +1,2 @@
+# Internal-Security-Audit
+I completed an internal security audit assigned in the Google certificate program. I was instructed to review the scope, goals and risk assesment report of the ficticious company, Botium Toys. Then, I had to complete the controls and compliance checklist. Lastly, I went over my findings and rated the risk level for the company, and provided actions for the IT manager to implement. 
